@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div
+  className="App"
+>
+  <div
+    className="content-wrapper"
+  >
+    <img
+      src="homeImage.jpg"
+    />
+    <div
+      className="text-wrapper"
+    >
+      <a
+        href="/login"
+      >
+        <button
+          className="HomeLoginButton btn btn-primary"
+          disabled={false}
+          type="button"
+        >
+          <b>
+            Sign in
+          </b>
+        </button>
+      </a>
+      <h1
+        className="HomeHeading"
+      >
+        What's up doc, keep track of your
+ appointments quick and easy!
+      </h1>
+      <br />
+      <a
+        href="/register"
+      >
+        <button
+          className="HomeButton btn btn-primary"
+          disabled={false}
+          type="button"
+        >
+          <b>
+            Get Started
+          </b>
+        </button>
+      </a>
+    </div>
+  </div>
+</div>
+`;

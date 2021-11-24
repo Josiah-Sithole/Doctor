@@ -1,0 +1,106 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&family=Poppins:wght@200&family=Roboto:ital,wght@0,500;1,500&display=swap');
+* {
+    text-align: center;  
+}
+
+.content-wrapper {
+    width: 100%;
+    margin: 0px;
+}
+
+.content-wrapper img {
+    width: 100%;
+    margin-top: -10px;
+}
+
+.content-wrapper img :not(.NonOpaque){
+    opacity: 1%;
+}
+
+.text-wrapper {
+    position: relative;
+    margin-top: -810px;
+}
+
+.UpdateHeading {
+    width: 800px;
+    font-size: 35px;
+    font-family: 'Poppins', sans-serif;
+    color: red;
+    background-color: white;
+    margin-top: -250px;
+    margin-right: -10px;
+    margin-bottom: 60px;
+}
+
+.UpdateForm {
+    width: 350px;
+    margin-top: -14px;
+    margin-left: -305px;
+}
+
+.UpdateButton {
+    border: 2px solid red;
+    color: red;
+    background-color: transparent;
+    width: 190px;
+    font-size: 15px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.UpdateLabel {
+    color: red;
+    font-size: 19px;
+}
+
+.UpdateNavLink {
+    font-size: 25px;
+    color: rgb(123, 224, 219);
+    margin-left: -460px;
+}
+
+.UpdateNavLink {
+    color: red;
+    margin-top: -250px;
+}
+
+.UpdateNavLink :hover {
+    color: red;
+}
+
+.SecUpdateForm {
+    width: 350px;
+    margin-top: -210px;
+    margin-left: 250px;
+}
+
+.SecUpdateLabel {
+    color: black;
+    font-size: 19px;
+}
+
+.SearchHeading {
+    width: 450px;
+    font-size: 22px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:black;
+    margin-left: 350px;
+    margin-top: 50px;
+    margin-bottom: 15px;
+}
+
+.SearchForm {
+    width: 250px;
+    margin-left: 450px;
+}
+
+.UpdateTable {
+    width: 580px;
+    font-size: 13px;
+    margin-top: 25px;
+    margin-left: 280px;
+    background-color: red;
+    border-radius: 10px;
+    border: 2px solid red;
+    color: rgb(250, 229, 235);
+}

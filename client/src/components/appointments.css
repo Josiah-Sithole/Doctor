@@ -1,0 +1,85 @@
+.content-wrapper img {
+    width: 100%;
+    height: 50%;
+    margin-top: -10px;
+}
+
+.content-wrapper img :not(.NonOpaque){
+    opacity: 1%;
+}
+
+.text-wrapper {
+    position: relative;
+}
+
+.AppointmentsHeading {
+    width: 800px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(19, 39, 83);
+    background-color: ghostwhite;
+    border-color: rgb(19, 39, 83);
+    border: 1rem;
+    margin-top: -98px;
+    margin-left: -34px;
+}
+
+.DeleteButton {
+    border: 2px solid red;
+    color: red;
+    background-color: transparent;
+    width: 39px;
+    height: 36px;
+    font-size: 20px;
+    padding: 0px;
+}
+
+.AppointmentsNavLink {
+    font-size: 25px;
+    color: rgb(7, 30, 99);
+    margin-left: -500px;
+    margin-top: -30px;
+}
+
+.AppointmentsNavLink  {
+    color: rgb(7, 30, 99);
+}
+
+.AppointmentsNavLink :hover {
+    color: red;
+}
+
+.AppointmentsTable {
+    font-size: 13px;
+    margin-left: -137px;
+    width: 960px;
+    margin-top: -240px;
+    background-color: white;
+}
+
+.AppointmentsTableHead {
+    background-color: transparent;
+    color: rgb(19, 39, 83);
+}
+
+.TableRemove {
+    width: 60px;
+    color: red;
+}
+
+.AppointmentsSubheading {
+    font-size: 23px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 200px;
+    margin-left: -515px;
+    margin-top: 110px;
+    padding: 1.5rem;
+}
+
+.AppointmentsSubLink {
+    color: rgb(19, 39, 83);
+}
+
+.AppointmentsSubLink :hover{
+    color:rgb(148, 145, 145)
+}
