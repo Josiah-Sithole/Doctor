@@ -9,7 +9,7 @@
 
 ## Screenshots: Web Application
 * Home Page
-![Screenshot (143)](https://user-images.githubusercontent.com/81366533/124412049-f6eed680-dd4d-11eb-8498-e393a836acfc.png)
+![Screenshot (143)](https://github.com/Josiah-Sithole/doctor/blob/master/client/src/images/homeImage.jpg)
 
 * Login Page
 ![Screenshot (144)](https://user-images.githubusercontent.com/81366533/124412122-17b72c00-dd4e-11eb-96fe-e8ad0534e940.png)
