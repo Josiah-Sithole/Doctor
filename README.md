@@ -8,9 +8,6 @@
 * A new user is allowed to register and be able to have their details registered with the web application
 
 ## Screenshots: Web Application
-* Home Page
-![Screenshot (143)](https://github.com/Josiah-Sithole/doctor/blob/master/client/src/images/homeImage.jpg)
-
 * Login Page
 ![Screenshot (144)](https://user-images.githubusercontent.com/81366533/124412122-17b72c00-dd4e-11eb-96fe-e8ad0534e940.png)
 
