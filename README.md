@@ -88,3 +88,5 @@
 
 ## Contact
 * Created by [Josiah Sithole]- feel free to contact me!
+* Email: (sitholejosiah7@gmail.com)
+* Phone Number: +27603191619
